@@ -1,0 +1,14 @@
+{
+  "name": "self-docker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:hoannguyen02/self-docker.git",
+  "author": "Hoan Nguyen <nguyenvanhoan02@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
